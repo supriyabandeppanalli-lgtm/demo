@@ -1,0 +1,6 @@
+this is lab first  experiment explanation:- 
+1)git init-is used to initialize new repository
+2)vi filename-to create a text file
+3)git add filename-to add the file into staging area
+4)git commit -m "commit message"-to commit the changes that has done in the files
+5)git status-to check the status of the files.
