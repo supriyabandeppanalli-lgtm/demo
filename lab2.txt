@@ -1,0 +1,16 @@
+this is second experiment explanation:-
+git chechout -b branch_name-to create a new branch and switch from master to feature_branch
+git switch branch_name-this is used to switch the branches
+git merge branch_name-this is used to mergeor combine the two branches
+     STEPS FOR SECOND EXPERIMENT:
+     1)git chechout -b feature_branch
+     2)vi gitlab2.txt
+     3)git status
+     4)git add gitlab2.txt
+     5)git commit -m "third commit"
+     6)git status
+     7)cat gitlab2.txt
+     8)git switch master
+     9)ls
+     10)git merge feature_branch
+NOTE:when we merge the branch that time the branch shown as green color is same as master but that time we have to check the content of the file after merging it is visiblein the master branch
