@@ -1,0 +1,13 @@
+LAB3 EXPERIMENT EXPALINATION:
+1)ls:-First we have to check the list of files in that blue color indicates the folder name remaining file names.
+2)vi filename:-open any of the file 
+3)git switch branch-name:-to switch the branch(which is feature-branch)
+4)git stash:-it is used to temporarily save (or "stash") your uncommitted changes in a Git repository without committing them, 
+so you can work on something else (like switching branches) and later reapply those saved changes.
+5)git switch branch-name:-switch to brabch master
+6)cat fielname:-to check the content of the file
+7)git stash apply:-We bring back (apply) the stashed changes into your current working directory without deleting them from the stash list
+8)cat fielname:-to check the content of the file
+9)git add . (or) git add filename:- It is used to add all the changes (new, modified, or deleted files) in your current directory to the staging area in Git.
+10)git commit -m "commit message":- It is used to save (commit) your staged changes in Git with a short descriptive message.
+11)git status:It is used to check the current state of your working directory and staging area in Git.
