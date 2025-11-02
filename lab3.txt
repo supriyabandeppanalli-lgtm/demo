@@ -1,4 +1,24 @@
 LAB3 EXPERIMENT EXPALINATION:
+1)git init:-to initialize the repository
+2)ls:-to check the list of files in that blue color indicates the folder name remaining file names.
+3)vi filename(lab3.txt):--open any of the file and content.
+4)git status-It is used to check the current state of your working directory and staging area in Git.
+5)git add . (or) git add filename:- It is used to add all the changes (new, modified, or deleted files) in your current directory to the staging area in Git.
+6)git commit -m "commit message":- It is used to save (commit) your staged changes in Git with a short descriptive message.
+7)git status-:-to check the status of the files.
+8)vi lab3.txt
+9)git status
+10)git stash:-it is used to temporarily save (or "stash") your uncommitted changes in a Git repository without committing them,
+so you can work on something else (like switching branches) and later reapply those saved changes.
+11)git switch branch-name:-to switch the branch(which is feature-branch)
+12)git stash apply:-We bring back (apply) the stashed changes into your current working directory without deleting them from the stash list
+13)cat file (lab3.txt):--to check the content of the file
+14)git add .
+15)git commit -m "commit message"
+16)git status
+
+                                                        ------OR-------
+
 1)ls:-First we have to check the list of files in that blue color indicates the folder name remaining file names.
 2)vi filename:-open any of the file 
 3)git switch branch-name:-to switch the branch(which is feature-branch)
