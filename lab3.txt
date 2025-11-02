@@ -35,5 +35,9 @@ so you can work on something else (like switching branches) and later reapply th
 <<<<<<< Updated upstream
 =======
 This is my new change before stashing
+<<<<<<< Updated upstream
 Helo
+>>>>>>> Stashed changes
+=======
+I am Supriya 
 >>>>>>> Stashed changes
