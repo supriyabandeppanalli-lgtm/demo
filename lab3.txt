@@ -31,3 +31,8 @@ so you can work on something else (like switching branches) and later reapply th
 9)git add . (or) git add filename:- It is used to add all the changes (new, modified, or deleted files) in your current directory to the staging area in Git.
 10)git commit -m "commit message":- It is used to save (commit) your staged changes in Git with a short descriptive message.
 11)git status:It is used to check the current state of your working directory and staging area in Git.
+<<<<<<< Updated upstream
+=======
+This is my new change before stashing
+Helo
+>>>>>>> Stashed changes
