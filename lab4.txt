@@ -1,0 +1,16 @@
+# Step 1: Open Git Bash and navigate to desired folder
+cd D:/Dsection:-Takes you to the folder named Dsection on your D: drive, so you can view, edit, or run commands inside it
+
+# Step 2: Clone the remote repository
+git clone https://github.com/supriyabandeppanalli-lgtm/demo.git:-To copy (download) a complete remote GitHub repository (demo.git)
+to your local machine.
+
+# Step 3: Move into the cloned repository
+cd demo:-To move into (open) the folder named demo that was created after cloning the repository.
+
+# Step 4: Check status
+git status
+
+# Step 5: Verify remote URL
+git remote -v
+
