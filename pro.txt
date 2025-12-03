@@ -1,0 +1,8 @@
+1)git init
+2)git switch feature-branch
+3)vi filename
+4)git add .
+5)git commit -m "commit message"
+6)git switch master
+7)git merge feature-branch -m "your custom commit message here"
+
