@@ -1,0 +1,11 @@
+1)git init
+2)ls
+3)cat filename(lab5.txt)
+4)go to github select that file edit the file in the github then say commiting chnages and then again it will ask about commit changes click on the commit changes
+5)git status
+in that it will say only nothing to commit working tree clean
+6)git fetch origin
+7)git rebase master (current branch name)
+8)git rebase origin master
+9)cat filename(lab5.txt)
+it will show the content that u made the  changes in the github after commiting

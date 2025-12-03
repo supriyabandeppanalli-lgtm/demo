@@ -1,0 +1,20 @@
+GIT LAB EXPERIMENT 4 :-
+1)First we have to create the new repository in the git hub
+2)After creating the new repository we have to copy the code in that repository i.e.,
+echo "# samplerepo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/supriyabandeppanalli-lgtm/samplerepo.git
+git push -u origin main 
+  
+  then 
+
+git remote add origin https://github.com/supriyabandeppanalli-lgtm/samplerepo.git
+git branch -M main
+git push -u origin main
+3)After copying this code go to git bash and then type  
+    git init 
+     git clone <repository url> or git clone <http_link>
+
