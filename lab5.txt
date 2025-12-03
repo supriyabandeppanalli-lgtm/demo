@@ -6,6 +6,8 @@
 in that it will say only nothing to commit working tree clean
 6)git fetch origin
 7)git rebase master (current branch name)
+it should say current branch is up to date
 8)git rebase origin master
+it should say successfully rebased and updated refs/heads/master.
 9)cat filename(lab5.txt)
 it will show the content that u made the  changes in the github after commiting
