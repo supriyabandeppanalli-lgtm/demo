@@ -15,7 +15,7 @@ so you can work on something else (like switching branches) and later reapply th
 13)cat file (lab3.txt):--to check the content of the file
 14)git add .
 15)git commit -m "commit message"
-16)git status
+16)git status.
 
                                                         ------OR-------
 
