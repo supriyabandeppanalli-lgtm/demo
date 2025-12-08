@@ -1,9 +1,2 @@
-now i am in my village with all time fav family
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-i am doing the 3rd experiment 
->>>>>>> Stashed changes
-=======
-i am doing the 3rd experiment 
->>>>>>> Stashed changes
+now i am in my village with all time fac family
+i am doing the 3rd experiment
