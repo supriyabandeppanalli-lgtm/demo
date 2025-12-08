@@ -1,9 +1,2 @@
-<<<<<<< Updated upstream
-now i am in my village with all time fac family
-i am doing the 3rd experiment
-=======
-Hello world I am Supriya Bandeppanalli 
-Now i am practicing for the exams
-now i am in my village with all time fav family
-i am  doing the 3rd experiment practice for the exams
->>>>>>> Stashed changes
+hello world
+
