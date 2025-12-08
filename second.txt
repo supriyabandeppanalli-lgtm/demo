@@ -1,1 +1,5 @@
 now i am in my village with all time fav family
+<<<<<<< Updated upstream
+=======
+i am doing the 3rd experiment 
+>>>>>>> Stashed changes
