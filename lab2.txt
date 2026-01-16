@@ -14,3 +14,4 @@ git merge branch_name-this is used to mergeor combine the two branches
      9)ls
      10)git merge feature_branch
 NOTE:when we merge the branch that time the branch shown as green color is same as master but that time we have to check the content of the file after merging it is visiblein the master branch
+...........
