@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1)git init
 2)ls
 3)cat filename(lab5.txt)
@@ -11,7 +10,3 @@ it should say current branch is up to date
 8)git rebase origin master
 it should say successfully rebased and updated refs/heads/master.
 9)cat filename(lab5.txt)
-it will show the content that u made the  changes in the github after commiting
-=======
-I am Supriya.
->>>>>>> feature-branch
