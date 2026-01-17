@@ -16,7 +16,7 @@ so you can work on something else (like switching branches) and later reapply th
 14)git add .
 15)git commit -m "commit message"
 16)git status.
-
+additional 
                                                         ------OR-------
 
 1)ls:-First we have to check the list of files in that blue color indicates the folder name remaining file names.
