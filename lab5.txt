@@ -10,3 +10,4 @@ it should say current branch is up to date
 8)git rebase origin master
 it should say successfully rebased and updated refs/heads/master.
 9)cat filename(lab5.txt)
+hello...
